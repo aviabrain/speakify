@@ -1,4 +1,7 @@
 ## What is this
+
+LIVE TELEGRAM BOT: https://t.me/speakify_aibot
+
 SPEAKIFY is a Telegram bot for practicing IELTS speaking.  
 It stores Part 1 / Part 2 / Part 3 prompts in an SQLite database, gives users random questions, supports an admin panel (CRUD + broadcasts), and can transcribe voice answers (Whisper) and return feedback from GPT-4o-mini.
 
